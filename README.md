@@ -49,18 +49,19 @@ Description
  Development
  ============================
  * Unity 2019.4.38f1
- * Copied Dragon Flight Game -> <https://df.floor.line.games/kr/main>
- * Resources and Sound -> <https://df.floor.line.games/kr/main>
+   
  
- Description
- ------------------------------
- * Used unity 2D to develop a game
- * Used resources and idea from <https://df.floor.line.games/kr/main>
+Things to downloads 
+----------------------
+Animations : https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack
+Character : https://www.unrealengine.com/marketplace/en-US/product/stylized-male-character-kit-casual
+Weapons : https://www.unrealengine.com/marketplace/en-US/product/fps-weapon-bundle
+Map : https://www.unrealengine.com/marketplace/en-US/product/stylized-egypt
  
  How to Play
  -------------------------------
- 1. Drag mouse to control the character
- 2. Try not to hit monster with the character
- 3. Used Item to kill the Monsters
+ 1. Move characters using WASD.
+ 2. Right mouse button to zoom and left button to shoot. 
+ 3. Kill all the enemy teams.
 
  
