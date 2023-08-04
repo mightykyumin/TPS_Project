@@ -4,38 +4,47 @@
  OVERVIEW
  =================
  
-![캡처5](https://user-images.githubusercontent.com/86776597/211946761-f7c02415-e476-4c50-b040-8d4644a7c925.PNG)
+
 
 
 Description
 --------------
 1. Character
 
-![캡처](https://user-images.githubusercontent.com/86776597/211946775-0eff6348-7dc0-4506-b8d2-f4712b1f6f41.PNG)
+![Character](https://github.com/mightykyumin/TPS_Project/assets/86776597/233e8be0-aa12-4863-acf5-327d39d51672)
+
+![Character2](https://github.com/mightykyumin/TPS_Project/assets/86776597/d7146c39-f94a-40b6-9080-7c1aa3c76cd9)
+
 
 2. Zoom
 
-![캡처2](https://user-images.githubusercontent.com/86776597/211946868-bf575d9b-9725-4f11-a197-c0001470e120.PNG)
+![zoom](https://github.com/mightykyumin/TPS_Project/assets/86776597/0d1c50b4-64f2-428a-9510-8bc76344f081)
+
 
 3. Shooting effect
 
-![캡처3](https://user-images.githubusercontent.com/86776597/211946904-371109ed-4582-44af-9c63-91617cf7c77d.PNG)
+![Shooting effect](https://github.com/mightykyumin/TPS_Project/assets/86776597/800317c2-eb0c-4063-a2c4-72355f971dc7)
 
 
-![캡처4](https://user-images.githubusercontent.com/86776597/211946932-a7d25dda-c237-4582-b547-40f4e719f061.PNG)
+![Shootingeffect2](https://github.com/mightykyumin/TPS_Project/assets/86776597/911a109e-be46-47f5-bc6e-71e427b1f730)
+
+
 
 4. Team AI
 
-![캡처5](https://user-images.githubusercontent.com/86776597/211946975-b98b644c-0fd2-447a-bb42-8b7c4bb9ebae.PNG)
+![image](https://github.com/mightykyumin/TPS_Project/assets/86776597/19e0cd98-a3aa-4eb2-8a00-a8e4723a96f0)
+
 
 5. Blueprints 
+![BP](https://github.com/mightykyumin/TPS_Project/assets/86776597/fb436171-fda0-4a06-9fb4-d0ec919bf250)
 
- 
+ ![BP2](https://github.com/mightykyumin/TPS_Project/assets/86776597/24f92fbf-e200-4db2-b70c-721368aa45d9)
+
  Development
  ============================
  * Unreal Engine 5.2
    
- 
+
 Things to downloads 
 ----------------------
 Animations : https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack
